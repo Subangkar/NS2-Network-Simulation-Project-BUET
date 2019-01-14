@@ -1,7 +1,7 @@
 # ns2-network-simulation  
   
 A network simulation project in ns2 of Wired-802.3, IEEE802.15.4, Satellite, Wired-Wireless-802.11 cross network measuring performance metrics like total energy consumption, throughput, packet transfer ratio, average end-to-end delay, energy consumption per byte etc. with respect to variation in number of nodes, flows, number of packets per second and coverage area.  
-  
+Some modifications have also been performed to observe the impact of modifications on performance metrics.    
 This simulation project work has been performed as an assignment of Computer Networking Sessional course in Level-3, Term-2 of Department of CSE, BUET. The tasks have been performed according to the specifications in "ns-2 project.pdf".    
   
   
