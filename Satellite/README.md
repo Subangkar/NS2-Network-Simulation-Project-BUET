@@ -1,0 +1,2 @@
+# Satellite-ns2-network-simulation
+A simple network simulation in ns2 of Satellite network measuring performance metrics like measuring performance metrics like total energy consumption, throughput, packet transfer ratio and average end-to-end delay with respect to variation in number of nodes and also AverageDelay with respect to variation in altitude has been measured and plotted in graph using gnuplot.
